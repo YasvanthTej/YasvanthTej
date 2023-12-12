@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YasvanthTej
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Btech-cse
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on yasvanthtej1312@gmail.com
 
 <!---
